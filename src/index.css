@@ -1,0 +1,44 @@
+.header a{
+    text-decoration: none;
+    color: white;
+}
+.rating{
+    padding: 0px 8px;
+    border-radius: 10px;
+}
+.imgs img{
+    border-radius: 5px;
+    height: 50px;
+    width: 50px;
+}
+.qty-text{
+    background-color: #fff;
+    border: 1px solid #dfe3e7;
+    border-radius: 4px;
+    color: #475f7b;
+    display: inline-block;
+    margin: 0 5px;
+    max-width: 70px;
+    min-height: 40px;
+    padding: 0 5px;
+    text-align: center;
+}
+.sitem .btn-danger:hover{
+    background-color: #DC3545 !important;
+    border: none !important;
+    color: white !important;
+}
+.sitem .btn-danger{
+    background-color: #fde6e7 !important;
+    border: none !important;
+    color: #DC3545 !important;
+}
+.box-shad{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.card .btn{
+    border-radius: 0;
+}
+.pointer{
+    cursor: pointer;
+}
